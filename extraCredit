@@ -1,0 +1,28 @@
+<HTML>
+	<head>
+		<link rel="stylesheet" type="text/css" href="styles.css" />
+		<title>Software Engineering Project</title>
+	</head>
+	<body>
+		<h2></h2>
+		<h1>CMPT 456 Software Engineering Project</h1>
+		<h3>Our Project: To modify the home page for the Manhattan College Computer Science Department</h3>
+		<h3>About Us
+		<br/>
+		We're all senior computer science majors at Manhattan College</h3>
+		<table frame='void' align='center'>
+			<tr>
+				<td><a href='http://linkedin.com/in/mbalady'>Meena Balady</a></td>
+				<td><a href='http://www.linkedin.com/pub/john-xitas/65/205/13'>John Xitas</a></td>
+				<td><a href='http://www.linkedin.com/pub/julio-lockhart/2b/b89/679'>Julio Lockhart</a></td>
+				<td><a href=''>Howard Stark</a></td>
+			</tr>
+		</table>
+		(click on a member's name to view his profile)
+		<h3><a href='TimeLog.html'>View Our Time Log</a></h3>
+
+		<h3><a href='WeeklyAssignments.html'>View Weekly Assignments</a></h3>
+
+		<h3><a href='Decisions.html'>View Notebook of Decisions and Issues</a></h3>
+	</body>
+</HTML>
